@@ -1,0 +1,10 @@
+qa\utils\MyWebShopUtil.class
+qa\steps\MyDemoWebSteps.class
+qa\utils\DemoWebShopUtils.class
+qa\utils\classPackage\config\Config.class
+qa\testrunner\TestRunner.class
+qa\common\pages\CommonPage.class
+qa\steps\DemoWebShopSteps.class
+qa\utils\DriverUtils.class
+qa\utils\constants\Constants.class
+qa\utils\FileUtil.class

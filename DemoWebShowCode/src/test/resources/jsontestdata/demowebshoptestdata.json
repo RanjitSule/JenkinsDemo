@@ -1,0 +1,22 @@
+{
+  "Scenarios2": [
+    {
+      "sc_id": "TC002",
+      "Applicationurl": "https://demowebshop.tricentis.com/",
+      "First name": "Ranjit",
+      "Last name": "Sule",
+      "Email": "Ranjit676@gmail.com",
+      "Password": "Ranjit@12"
+    }
+  ],
+  "Scenarios1": [
+    {
+      "sc_id": "TC001",
+      "Applicationurl": "https://demowebshop.tricentis.com/",
+      "First name": "Siddhartha",
+      "Last name": "Rachapally",
+      "Email": "siddhartha4116@gmail.com",
+      "Password": "Siddhu@123"
+    }
+  ]
+}
